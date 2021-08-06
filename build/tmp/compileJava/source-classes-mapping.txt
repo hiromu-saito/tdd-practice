@@ -1,2 +1,4 @@
 Dollar.java
  Dollar
+Franc.java
+ Franc
