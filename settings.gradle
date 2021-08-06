@@ -1,0 +1,3 @@
+rootProject.name = 'tdd-sample'
+include 'src'
+
