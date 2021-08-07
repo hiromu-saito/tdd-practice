@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MoneyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-06T14:33:00" hostname="LAPTOP-65S1A84J" time="0.028">
+<testsuite name="MoneyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-07T01:28:37" hostname="LAPTOP-65S1A84J" time="0.027">
   <properties/>
-  <testcase name="testEquality()" classname="MoneyTest" time="0.028"/>
+  <testcase name="testEquality()" classname="MoneyTest" time="0.027"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

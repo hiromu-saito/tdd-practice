@@ -1,6 +1,6 @@
-Money.java
- Money
 Dollar.java
  Dollar
 Franc.java
  Franc
+Money.java
+ Money
