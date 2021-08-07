@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MoneyTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-08-07T02:01:10" hostname="LAPTOP-65S1A84J" time="0.031">
+<testsuite name="MoneyTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-08-07T02:31:17" hostname="LAPTOP-65S1A84J" time="0.038">
   <properties/>
-  <testcase name="testMultiplication()" classname="MoneyTest" time="0.023"/>
+  <testcase name="testMultiplication()" classname="MoneyTest" time="0.028"/>
+  <testcase name="testDifferentClassEquality()" classname="MoneyTest" time="0.001"/>
   <testcase name="testFrancMultiplication()" classname="MoneyTest" time="0.001"/>
   <testcase name="testCurrency()" classname="MoneyTest" time="0.001"/>
-  <testcase name="testEquality()" classname="MoneyTest" time="0.002"/>
+  <testcase name="testEquality()" classname="MoneyTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
