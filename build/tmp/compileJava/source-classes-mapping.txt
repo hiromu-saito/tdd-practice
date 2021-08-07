@@ -1,6 +1,8 @@
-Bank.java
- Bank
-Expression.java
- Expression
 Money.java
  Money
+Sum.java
+ Sum
+Expression.java
+ Expression
+Bank.java
+ Bank
