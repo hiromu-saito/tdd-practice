@@ -1,8 +1,10 @@
-Money.java
- Money
+Pair.java
+ Pair
+Bank.java
+ Bank
 Sum.java
  Sum
 Expression.java
  Expression
-Bank.java
- Bank
+Money.java
+ Money
