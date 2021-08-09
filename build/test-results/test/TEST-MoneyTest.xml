@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MoneyTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-08-07T15:41:16" hostname="LAPTOP-65S1A84J" time="0.047">
+<testsuite name="MoneyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-09T12:02:51" hostname="LAPTOP-65S1A84J" time="0.023">
   <properties/>
-  <testcase name="testReduceSum()" classname="MoneyTest" time="0.028"/>
-  <testcase name="testSimpleAddition()" classname="MoneyTest" time="0.001"/>
-  <testcase name="testMultiplication()" classname="MoneyTest" time="0.002"/>
-  <testcase name="testReduceMoney()" classname="MoneyTest" time="0.001"/>
-  <testcase name="testPlusReturnSum()" classname="MoneyTest" time="0.001"/>
-  <testcase name="testIdentifyRate()" classname="MoneyTest" time="0.001"/>
-  <testcase name="testCurrency()" classname="MoneyTest" time="0.001"/>
-  <testcase name="testEquality()" classname="MoneyTest" time="0.003"/>
-  <testcase name="testReduceMoneyDifferentCurrency()" classname="MoneyTest" time="0.002"/>
+  <testcase name="testMixedAddition()" classname="MoneyTest" time="0.023"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
